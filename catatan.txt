@@ -1,0 +1,12 @@
+inisialisasi awal => npm init -y
+
+seperti biasa, jika elemen didalam elemen pembungkus(child) ingin menerapkan absolute, pada parent, berikan relative
+e.g: <div class="relative">
+        <div class="absolute"></div>
+    </div> 
+
+
+truncate : agar tulisan tidak memanjang terus
+contoh : ayo kita ke sawah -> ayo kita ke......
+
+untuk ul li, agar dapat diberi margin, beri class inline-block

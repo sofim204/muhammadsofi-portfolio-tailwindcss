@@ -10,3 +10,6 @@ truncate : agar tulisan tidak memanjang terus
 contoh : ayo kita ke sawah -> ayo kita ke......
 
 untuk ul li, agar dapat diberi margin, beri class inline-block
+
+/public/imgae.jgp
+saat diupload ke server, hilangkan / di depan
